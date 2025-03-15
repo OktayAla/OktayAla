@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - [Python Projects](https://github.com/OktayAla/Python)
 - [C# Projects](https://github.com/OktayAla/CSharp)
 - [Arduino Projects](https://github.com/OktayAla/Arduino)
-- [Web Projects](https://github.com/OktayAla/WebProjeleri)
+- [Web Projects](https://github.com/OktayAla/WebProjects)
 
 ## ⚙️ Currently Projects
-- **[Web Based Request & Ticket System]([https://github.com/OktayAla/WebProjeleri/tree/main/Talep%20Bildirim%20Sistemi](https://github.com/OktayAla/WebProjects/tree/main/Ticket%20request%20systems))** - A MySQL and PHP based ticket interface where users can report their requests and malfunctions over the web.
+- **[Web Based Request & Ticket System]((https://github.com/OktayAla/WebProjects/tree/main/Ticket%20request%20systems))** - A MySQL and PHP based ticket interface where users can report their requests and malfunctions over the web.
 - **[Stock Market Analysis Application](https://github.com/OktayAla/Python/tree/main/AI%20Stock%20market%20analysis%20app)** - It is a stock market analysis program created in Python using sklearn and tensorflow libraries.
 
 ## 📫 How to reach me:
