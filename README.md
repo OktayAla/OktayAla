@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 -  Master’s in **Management Information Systems** from Sakarya University
 -  I work in a company as an **IT Support Assistant**.
 -  Currently learning **Python with machine learning**
--  *assionate about optimizing processes and automating workflows
 
 ## Check Out My Repositories
 - [Python Projects](https://github.com/OktayAla/Python)
